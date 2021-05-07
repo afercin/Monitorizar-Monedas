@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1500
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monitorizar Monedas", "Monitorizar Monedas\Monitorizar Monedas.csproj", "{FEF7EC24-7904-4914-ABB5-02997C799801}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEF7EC24-7904-4914-ABB5-02997C799801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEF7EC24-7904-4914-ABB5-02997C799801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEF7EC24-7904-4914-ABB5-02997C799801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEF7EC24-7904-4914-ABB5-02997C799801}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97467988-F8FE-45AF-8ED4-E3F217461329}
+	EndGlobalSection
+EndGlobal
